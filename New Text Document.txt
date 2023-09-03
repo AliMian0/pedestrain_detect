@@ -1,0 +1,41 @@
+"Empower your Algorithms, Ignite your Potential: Unleash the Machine Learning Master in You!
+
+An ML (Machine Learning) and AI (Artificial Intelligence) bootcamp is an intensive training program that aims to equip participants with the necessary skills and knowledge in machine learning and artificial intelligence.
+
+The modules are as follow :
+
+module 1: 
+• GUEST SPEAKER
+
+ -How to prepare for career as a fresh graduate in Software industry during the degree.
+ -Different careers, their pros/cons and scope in Software industry.
+ -LinkedIn profile Hands On during the session for jobs/internship search.
+ -Internship opportunities in Pakistan/abroad
+ -Study options after graduation in Pakistan/ abroad
+ -What level of programming and development expertise required for a student to learn during    degree.
+
+
+module 2: 
+
+• INTRODUCTION TO MACHINE LEARNING
+• LIBRARIES & PREPROCESSING
+
+module 3:
+
+• INTRODUCTION TO ALGORITHM
+• LINEAR REGRESSION AND SVM
+
+
+module 4:
+
+INTRODUCTION TO NEURAL NETWORKS (NN)
+• NATURAL LANGUAGE PREPROCESSING (NLP) & COMPUTER
+VISION(CV)
+
+
+
+📅 Date: 1-4 June 
+⏰ Time: 8 PM to 9 PM
+📍 Venue: Ms Teams 
+🔗 Google Form: 
+https://forms.gle/BhSsngCVhrcepgTc6

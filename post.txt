@@ -1,0 +1,25 @@
+"Empower your Algorithms, Ignite your Potential: Unleash the Machine Learning Master in You!
+
+An ML (Machine Learning) and AI (Artificial Intelligence) bootcamp is an intensive training program that aims to equip participants with the necessary skills and knowledge in machine learning and artificial intelligence.
+
+The modules are as follow :
+
+MODULE 1:
+• Guest Speaker
+• Linkedin optimization,internship and study options
+MODULE 2:
+• Introduction to machine learning
+• Libraries and preprocessing
+MODULE 3:
+• Introduction to algorithm
+• Linear regression and SVM
+MODULE 4:
+• Introduction to neural networks (NN)
+• NLP & CV
+
+
+📅 Date: 1-4 June 
+⏰ Time: 8 PM to 9 PM
+📍 Venue: Ms Teams 
+🔗 Google Form: 
+https://forms.gle/BhSsngCVhrcepgTc6
